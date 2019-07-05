@@ -1,2 +1,3 @@
-Git is a free sofeware.
+Git is a free sofeware. 
 Never Settle
+Stephen Curry
